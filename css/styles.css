@@ -1,0 +1,22 @@
+body{
+  background-color:#F0EBE3;
+}
+
+h1{
+  color: #7D9D9C;
+}
+
+h3{
+  color: #7D9D9C;
+}
+
+hr{
+  background-color: none;
+  /* top | right | bottom | left */
+  border-style: none none dotted none;
+  border-color: lightgrey;
+  /* the border size */
+  border-width: 0.4em;
+  /* how much screen space does it take up (100% all screen) */
+  width: 2.4%;
+}
